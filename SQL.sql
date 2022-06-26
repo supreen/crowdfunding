@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `powerrealty`
+-- Database: `crowdfunding`
 --
 CREATE DATABASE IF NOT EXISTS `crowdfunding` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
 USE `crowdfunding`;
